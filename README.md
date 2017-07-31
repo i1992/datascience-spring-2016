@@ -11,7 +11,3 @@ In the interest of being efficient, we encourage everyone to ask questions publi
 
 In this quarter, we will publish all course materials on the Github and on [Gitbook][1].  This implies you **do not** need a textbook for the class as all required materials will be provided.
 
-> Please feel free to utilize Github issue or Gitbook comment to share your thoughts on the course throughout the quarter
-
-
-
